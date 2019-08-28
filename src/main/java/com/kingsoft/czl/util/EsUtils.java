@@ -80,6 +80,7 @@ public class EsUtils {
         IndexResponse response = null;
         try {
             JSONObject jsonObject = JSONObject.fromObject(obj);
+            System.out.println("jsonObject: " + jsonObject);
             ActionFuture<IndexResponse> future = client.index(
                     new IndexRequest(index, type)
                             .source(jsonObject));

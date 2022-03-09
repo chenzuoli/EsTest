@@ -4,7 +4,7 @@ import org.elasticsearch.common.unit.DistanceUnit;
 import org.elasticsearch.index.query.QueryBuilders;
 
 /**
- * company: 北京金山软件股份有限公司
+ * company: 
  * user: chenzuoli
  * date: 2018/9/20 11:44
  * description: 测试es中的geo_point类型

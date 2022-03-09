@@ -1,8 +1,8 @@
-package com.kingsoft.czl;
+package com.company.czl;
 
-import com.kingsoft.czl.entity.Repayment_detail_report_20190115;
-import com.kingsoft.czl.util.EsUtils;
-import com.kingsoft.czl.util.FileUtils;
+import com.company.czl.entity.Repayment_detail_report_20190115;
+import com.company.czl.util.EsUtils;
+import com.company.czl.util.FileUtils;
 import org.elasticsearch.client.transport.TransportClient;
 
 import java.util.HashMap;

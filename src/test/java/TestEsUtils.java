@@ -1,8 +1,8 @@
-import com.kingsoft.czl.entity.Test;
-import com.kingsoft.czl.util.EsUtils;
+import com.company.czl.entity.Test;
+import com.company.czl.util.EsUtils;
 
 /**
- * company: 北京金山软件股份有限公司
+ * company: 
  * user: chenzuoli
  * date: 2018/11/7 19:31
  * description: 测试es工具类

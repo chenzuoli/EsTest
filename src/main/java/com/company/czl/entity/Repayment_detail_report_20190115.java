@@ -1,4 +1,4 @@
-package com.kingsoft.czl.entity;
+package com.company.czl.entity;
 
 import lombok.Data;
 

@@ -1,3 +1,3 @@
-2018-08-17 15:31:51 ERROR [main] com.kingsoft.czl.DeleteEsByDate.main(56) - please enter correct delete mode: 1 is delete equals, 2 is delete not equals!
-2018-08-17 15:32:57 INFO  [main] com.kingsoft.czl.DeleteEsByDate.deleteOthDocByQuery(93) - delete number of document is 2
-2018-08-17 15:33:45 INFO  [main] com.kingsoft.czl.DeleteEsByDate.deleteDocumentByQuery(75) - delete number of document is 1
+2018-08-17 15:31:51 ERROR [main] DeleteEsByDate.main(56) - please enter correct delete mode: 1 is delete equals, 2 is delete not equals!
+2018-08-17 15:32:57 INFO  [main] DeleteEsByDate.deleteOthDocByQuery(93) - delete number of document is 2
+2018-08-17 15:33:45 INFO  [main] DeleteEsByDate.deleteDocumentByQuery(75) - delete number of document is 1

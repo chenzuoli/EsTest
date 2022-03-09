@@ -6,7 +6,7 @@
 //import java.util.Properties;
 //
 ///**
-// * company: 北京金山软件股份有限公司
+// * company: 
 // * user: chenzuoli
 // * date: 2018/10/31 17:40
 // * description: 测试jdbc连接es，未测试成功

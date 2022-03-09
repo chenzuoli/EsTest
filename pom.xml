@@ -111,7 +111,7 @@
                     <!--这部分可有可无,加上的话则直接生成可运行jar包-->
                     <archive>
                         <manifest>
-                            <mainClass>com.kingsoft.czl.Temp</mainClass>
+                            <mainClass>com.company.czl.Temp</mainClass>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                         </manifest>
